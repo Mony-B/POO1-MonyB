@@ -2,7 +2,6 @@
 
 - Nombre: Monica del Rocio Gutierrez Rodriguez
 - Correo: monygrzac@gmail.com
-- Pruebaaaaaaaaa 
 
 # Actividad 1
 - Programa 1
