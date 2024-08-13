@@ -1,12 +1,13 @@
-# Programación Orientada a Objetos 1 y Lab
+# PROGRAMACIÓN ORIENTADA A OBJETOS I Y LABORATORIO
 
-- Nombre: Mónica del Rocío Gutiérrez Rodríguez
+- Nombre: Monica del Rocio Gutierrez Rodriguez
 - Correo: monygrzac@gmail.com
 
 # Actividad 1
 - Programa 1
 - Programa 2
+- Programa 3
 
 # Actividad 2
-- Programa 3
 - Programa 4
+- Programa 5
