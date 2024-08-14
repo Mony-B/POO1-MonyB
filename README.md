@@ -4,7 +4,7 @@
 - Correo: monygrzac@gmail.com
 
 # Actividad 1
-- Programa 1
+- p01_HolaMundo.java
 - Programa 2
 - Programa 3
 
