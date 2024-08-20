@@ -15,3 +15,14 @@
 - p07_OperadoresAsignacion.java
 - p08_FuncionesTrigonometricas.java
 - p09_DividirEnCifras.java
+
+# Práctica 01
+- p10_HipotenusaTriangulo.java
+- p11_CalcularAngulo.java
+- p12_ConvertirTemperatura.java
+- p13_VolumenCilindro.java
+- p14_CalculoTiempo.java
+- p15_ConvertirADolares.java
+
+# Actividad 3
+- p016_TrabajandoEnteros.java
