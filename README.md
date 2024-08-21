@@ -26,7 +26,7 @@
 
 # Actividad 3
 - p16_TrabajandoEnteros.java
-- p17_TrabajandoFlotantes
-- p18_TrabajandoConstantes
-- p19_TrabajandoCaracteres
-- p20_ConversionTipos
+- p17_TrabajandoFlotantes.java
+- p18_TrabajandoConstantes.java
+- p19_TrabajandoCaracteres.java
+- p20_ConversionTipos.java
