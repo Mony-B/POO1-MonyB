@@ -25,4 +25,8 @@
 - p15_ConvertirADolares.java
 
 # Actividad 3
-- p016_TrabajandoEnteros.java
+- p16_TrabajandoEnteros.java
+- p17_TrabajandoFlotantes
+- p18_TrabajandoConstantes
+- p19_TrabajandoCaracteres
+- p20_ConversionTipos

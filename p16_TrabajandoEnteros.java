@@ -1,6 +1,6 @@
 //p016_TrabEnt - Trabajando con números enteros
 
-public class p016_TrabajandoEnteros {
+public class p16_TrabajandoEnteros {
     public static void main(String[] args) {
         int num1 = 42;
         int num2 = 0x2A;
