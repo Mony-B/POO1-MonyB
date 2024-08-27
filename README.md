@@ -42,3 +42,9 @@
 - p26_TipoAngulo.java
 - p27_AceptarEstudiante.java
 - p28_LeyDeNewton.java
+
+# Actividad 6
+- p29_Calculadora.java
+- p30_DiaSemana.java
+- p31_NumRomanos.java
+- p32_PagoEstacionamiento.java
