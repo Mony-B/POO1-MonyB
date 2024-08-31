@@ -64,3 +64,8 @@
 - p42_TablasMultiplicar.java
 - p43_ConteoNumeros.java
 
+# Actividad 8
+- p44_ParesAscendentes.java
+- p45_ImparesDescendentes;
+- p46_TablaConversion.java
+- p47_Conjetura_Collatz.java
