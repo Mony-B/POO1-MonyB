@@ -16,7 +16,7 @@
 - p08_FuncionesTrigonometricas.java
 - p09_DividirEnCifras.java
 
-# Práctica 01
+# Práctica #1
 - p10_HipotenusaTriangulo.java
 - p11_CalcularAngulo.java
 - p12_ConvertirTemperatura.java
@@ -49,7 +49,7 @@
 - p31_NumRomanos.java
 - p32_PagoEstacionamiento.java
 
-# Práctica 2
+# Práctica #2
 - p33_NumerosConsecutivos.java
 - p34_NumeroMayor.java
 - p35_ContinentesMundo.java
