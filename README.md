@@ -69,3 +69,9 @@
 - p45_ImparesDescendentes;
 - p46_TablaConversion.java
 - p47_Conjetura_Collatz.java
+
+# Práctica #3
+- p48_ImprimirAscendente.java
+- p49_ParesDescendente.java
+- p50_ConversionTemperaturas.java
+- p51_SerieFibonacci.java
