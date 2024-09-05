@@ -75,3 +75,16 @@
 - p49_ParesDescendente.java
 - p50_ConversionTemperaturas.java
 - p51_SerieFibonacci.java
+
+# Actividad 9
+- p52_Numeros1aN.java
+- p53_NumerosNa1.java
+- p54_ArribaAbajo.java
+- p55_SumaParesImpares.java
+- p56_SumaPromedio.java
+
+# Actividad 10
+- p57_TablasMultiplicar.java
+- p58_Piramide.java
+- p59_FactorialNumeros.java
+- p60_SumaTerminos.java
