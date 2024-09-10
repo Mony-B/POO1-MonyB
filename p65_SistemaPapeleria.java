@@ -27,7 +27,7 @@ public class p65_SistemaPapeleria {
         do {
             // Salida: Mostrar número de la venta
             System.out.println("Venta: " + ventaCount);
-            System.out.println(); // Salto de línea entre ventas
+            System.out.println(); 
 
             System.out.println("            FOTOCOPIAS");
             System.out.println("-------------------------------------");
