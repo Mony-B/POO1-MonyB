@@ -95,6 +95,6 @@ public class p65_SistemaPapeleria {
         }
 
         obj.close();
-        System.out.println("¡Gracias por comprar aquí!");
+        System.out.println("¡Gracias por utilizarme, vuelve pronto!");
     }
 }
