@@ -100,3 +100,10 @@
 
 # Primer Examen Parcial
 - ep01_PrimerExamenParcial.java
+
+# Actividad 11
+- p66_PromedioNumeros.java
+- p67_ConversionTemperaturas.java
+- p68_SumaRango.java
+- p69_TablaMultiplicar.java
+- p70_CalificacionLetra.java
