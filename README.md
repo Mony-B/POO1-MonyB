@@ -107,3 +107,10 @@
 - p68_SumaRango.java
 - p69_TablaMultiplicar.java
 - p70_CalificacionLetra.java
+
+# Actividad 12
+- p71_MayorTresNumeros.java
+- p72_SumaDigitos.java
+- p73_SumaParesImpares.java
+- p74_Factorial.java
+- p75_CuadroCaracter.java
