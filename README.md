@@ -121,3 +121,11 @@
 - p78_MedidasLongitud.java
 - p79_SumaMultiplos.java
 - p80_Angulo.java
+
+# Actividad 13
+- p81_InicializaArregloNumeros.java
+- p82_InicializaArregloCadenas.java
+- p83_InicializaNombresEdades.java
+- p84_PromedioArreglo.java
+- p85_NombresEdades.java
+
