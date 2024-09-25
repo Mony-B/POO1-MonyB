@@ -129,3 +129,8 @@
 - p84_PromedioArreglo.java
 - p85_NombresEdades.java
 
+# Actividad 14
+- p86_ArregloMostrar.java
+- p87_ArregloTemperaturas.java
+- p88_Aleatorios.java
+- p89_ArregloAleatorios.java
