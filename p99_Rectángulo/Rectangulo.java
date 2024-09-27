@@ -1,4 +1,4 @@
-package p99_Rectangulo;
+package p99_Rectángulo;
 
 public class Rectangulo {
     private float Largo;

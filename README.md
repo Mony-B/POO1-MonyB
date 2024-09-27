@@ -142,7 +142,12 @@
 - p93_ParesImpares.java
 
 # Actividad 15
-- p94_Empleado01.java
-- p95_Empleado02.java
-- p96_Empleado03.java
-- p97_Empleado0.java
+- p94_Empleado01
+- p95_Empleado02
+- p96_Empleado03
+- p97_Empleado04
+
+# Práctica #8
+- p98_Círculo
+- p99_Rectángulo
+- p100_Artículo

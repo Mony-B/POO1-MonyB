@@ -1,5 +1,5 @@
 /*Venta papelería? - Mony B. */
-package p100_Articulo;
+package p100_Artículo;
 
 import java.util.ArrayList;
 
