@@ -1,4 +1,4 @@
-package p100_Artículo;
+package p100_Articulo;
 
 public class Articulo {
     private String Id;

@@ -1,5 +1,5 @@
 /*Área y perímetro de un rectángulo - Mony B.*/
-package p99_Rectángulo;
+package p99_Rectangulo;
 
 public class App {
     public static void main(String[] args) {
