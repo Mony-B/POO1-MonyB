@@ -151,3 +151,17 @@
 - p98_Círculo
 - p99_Rectángulo
 - p100_Artículo
+
+# Actividad 16
+- p101_TrabajoPersona
+- p102_AutorLibro
+- p103_ClienteFactura
+
+# Práctica #9
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
+
+# Actividad 17
+- p106_Persona
+- p107_Forma
+
