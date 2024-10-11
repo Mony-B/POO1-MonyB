@@ -17,7 +17,7 @@ public class Circulo extends Forma{
     }
     @Override
     public double getArea() {
-        return Math.PI * Math.pow(Radio, 22);
+        return Math.PI * Math.pow(Radio, 2);
     }
     @Override
     public String toString() {
