@@ -168,3 +168,13 @@
 # Práctica #10
 - p108_Vehiculo
 - p109_FormaV2
+
+# Actividad 18
+- p110_CuentaBancariaV1
+
+# Actividad 19
+- p111_CuentaBancariaV2
+
+# Práctica 11 (repaso)
+- p112_ControlVentas
+
