@@ -175,8 +175,18 @@
 # Actividad 19
 - p111_CuentaBancariaV2
 
-# Práctica 11 (repaso)
+# Práctica 11 
 - p112_ControlVentas
 
 # Segundo examen Parcial
 - p113_SegundoExamenParcial
+
+# Actividad 20
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+
+# Actividad 21
+- p118_Calculadora
+- p119_Organismo
