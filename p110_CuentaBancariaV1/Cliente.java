@@ -1,5 +1,7 @@
 package p110_CuentaBancariaV1;
 
+import p114_Animal.CuentaBancaria;
+
 public class Cliente {
     private String nombre;
     private CuentaBancaria cuenta;

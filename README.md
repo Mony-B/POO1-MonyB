@@ -193,3 +193,12 @@
 
 # Práctica 12
 - p120_Vehiculo
+
+# Actividad 22
+- p121_Excepcion1.java
+- p122_Excepcion2.java
+- p123_Excepcion3.java
+- p124_Excepcion4.java
+- p125_Excepcion5.java
+- p126_Excepcion6.java
+- p127_MiExcepcion.java
