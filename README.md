@@ -202,3 +202,16 @@
 - p125_Excepcion5.java
 - p126_Excepcion6.java
 - p127_MiExcepcion.java
+
+# Práctica #13
+- p128_ExcepcionRaiz.java
+- p129_ExcepcionDulces.java
+- p130_ExcepcionEdades.java
+- p131_ExcepcionTemperatura.java
+
+# Actividad 23
+- p132_Archivos1.java
+- p133_Archivos2.java
+- p134_Archivos3.java
+- p135_Archivos4.java
+- p136_Archivos5
