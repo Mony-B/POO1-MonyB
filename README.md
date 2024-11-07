@@ -217,6 +217,11 @@
 - p136_Archivos5
 
 # Práctica #14
-- p137_ArchivoMunicipios
-- p138_ArchivoMaterias
+- p137_ArchivoMunicipios.java
+- p138_ArchivoMaterias.java
 - p139_ArchivoEstudiante
+
+# Actividad 24
+- p140_HolaMundoGUI.java
+- p141_AreaTrianguloGUI.java
+- p142_LeyDeNewtonGUI.java
