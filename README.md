@@ -225,3 +225,7 @@
 - p140_HolaMundoGUI.java
 - p141_AreaTrianguloGUI.java
 - p142_LeyDeNewtonGUI.java
+
+# Práctica #15
+- p143_PagaTrabjador.java
+- p144_Temperaturas.java
