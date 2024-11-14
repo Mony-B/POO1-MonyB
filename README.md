@@ -229,3 +229,14 @@
 # Práctica #15
 - p143_PagaTrabjador.java
 - p144_Temperaturas.java
+
+# Actividad 25
+- p145_EstudianteGUI_V1
+
+# Actividad 26
+- p146_EstudianteGUI_V2
+
+# Tercer Examen Parcial
+- p147_TercerExamenParcial
+
+
