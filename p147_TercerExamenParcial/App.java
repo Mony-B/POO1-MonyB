@@ -70,7 +70,7 @@ public class App extends JFrame implements ActionListener {
         
         pnlDatos = new JPanel();
         add(pnlDatos);
-        pnlDatos.setLayout(new GridLayout(6, 6, 0, 0));
+        pnlDatos.setLayout(new GridLayout(10, 1, 1, 1));
         lblNombre = new JLabel("Nombre:");
         lblNombre.setHorizontalAlignment(SwingConstants.RIGHT);
         txtNombre = new JTextField();
@@ -224,7 +224,7 @@ public class App extends JFrame implements ActionListener {
 
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == smnSalir) {
-            dispose();
+            dispose();  
         } else if (e.getSource() == smnAcercade) {
             jdlAcercaDe.setVisible(true);
         } else if (e.getSource() == smnAbrir) {
@@ -273,7 +273,7 @@ public class App extends JFrame implements ActionListener {
     }
     public static void main(String[] args) {
         App app = new App();
-        app.setBounds(50, 50, 750, 600);
+        app.setBounds(20, 20, 800, 600);
         app.setLocationRelativeTo(null);
         app.setVisible(true);
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
